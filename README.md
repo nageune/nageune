@@ -1,4 +1,5 @@
 # khyunx
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=khyunx&fontAlign=80&fontAlignY=40&color=gradient)
 
 ## Cards
 [![khyunx's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunx)](https://github.com/anuraghazra/github-readme-stats)
