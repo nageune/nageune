@@ -27,7 +27,7 @@
   - Flutter
 
 - Problem Solving
-  - [Baekjoon](https://www.acmicpc.net/user/kangkh0906)
+  - [Baekjoon Online Judge](https://www.acmicpc.net/user/kangkh0906)
   - [solved.ac](https://solved.ac/profile/kangkh0906)
   - [Codeforces](https://codeforces.com/profile/khyunx)
  
