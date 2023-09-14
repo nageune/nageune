@@ -1,9 +1,9 @@
-# khyunx
+# nageune
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=khyunx&fontAlign=80&fontAlignY=40&color=gradient)
 
 ## Cards
-[![khyunx's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunx)](https://github.com/anuraghazra/github-readme-stats)
-[![khyunx's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khyunx&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/khyunx)
+[![nageune's GitHub stats](https://github-readme-stats.vercel.app/api?username=nageune)](https://github.com/anuraghazra/github-readme-stats)
+[![nageune's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nageune&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nageune)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangkh0906)](https://solved.ac/kangkh0906)
 
 ## Education
@@ -30,6 +30,7 @@
   - [Baekjoon OJ](https://www.acmicpc.net/user/kangkh0906)
   - [solved.ac](https://solved.ac/profile/kangkh0906)
   - [Codeforces](https://codeforces.com/profile/khyunx)
+  - [AtCoder](https://atcoder.jp/users/nageune)
  
 ## Contacts
 - [Email](mailto:kangkh0906@khu.ac.kr)
