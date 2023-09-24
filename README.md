@@ -7,13 +7,15 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangkh0906)](https://solved.ac/kangkh0906)
 
 ## Education
-- 경희대학교 컴퓨터공학부 컴퓨터공학과, 2022. 03 -
+- 경희대학교 컴퓨터공학부 컴퓨터공학과, 2022. 3~
 
 ## Activity
-- 경희대학교 컴퓨터공학부 동아리 Hacker, 2022. 03 -
+- 경희대학교 컴퓨터공학부 동아리 Hacker, 2022. 3~
 
 ## Awards
-- 경희대학교 SW중심대학 동아리 단합 공모전 장려상(3rd), 2022
+- 경희대학교 SW중심대학 동아리 단합 공모전 장려상(3rd), 2022. 9. 22
+- 경인지역 6개 대학 연합 프로그래밍 경시대회 shake!
+  - 2023 경희대학교 선발전(7th), 2023. 9. 22
  
 ## Interest
 - Languages
