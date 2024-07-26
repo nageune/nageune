@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=nageune&fontAlign=80&fontAlignY=40&color=gradient)
-
 ## Cards
 [![nageune's GitHub stats](https://github-readme-stats.vercel.app/api?username=nageune)](https://github.com/anuraghazra/github-readme-stats)
 [![nageune's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nageune&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nageune)
