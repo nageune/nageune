@@ -2,7 +2,7 @@
 경희대학교 컴퓨터공학과 <sub>2022. 3.-Present</sub>
 
 ### 🏆 Contests
-2022 경희대학교 SW중심대학 동아리 단합 공모전 3rd Prize <sub>2022. 9.</sub>
+2022 경희대학교 SW중심대학 동아리 단합 공모전 3rd Prize <sub>2022. 9.</sub>  
 2023 경인지역 6개 대학 연합 프로그래밍 경시대회 shake! 경희대학교 선발전 7th Place, 본선 진출 <sub>2023. 9.</sub>
 
 ### 🛠️ Skills
