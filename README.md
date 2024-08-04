@@ -19,7 +19,10 @@
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📃 Others
-[![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=&logoColor=white)](https://nageune.github.io) [![solved.ac](https://img.shields.io/badge/solved.ac-26db23?style=for-the-badge&logo=&logoColor=white)](https://solved.ac/profile/kangkh0906) [![cf](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nageune) [![atcoder](https://img.shields.io/badge/atcoder-000000?style=for-the-badge&logo=&logoColor=white)](https://atcoder.jp/users/nageune)
+[![blog](https://img.shields.io/badge/blog-20232A?style=for-the-badge&logo=&logoColor=white)](https://nageune.github.io)
+[![solved.ac](https://img.shields.io/badge/solved.ac-26db23?style=for-the-badge&logo=&logoColor=white)](https://solved.ac/profile/kangkh0906)
+[![cf](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nageune)
+[![atcoder](https://img.shields.io/badge/atcoder-20232A?style=for-the-badge&logo=&logoColor=white)](https://atcoder.jp/users/nageune)
 
 ## ✉️ Contact
 [![gmail](https://img.shields.io/badge/nageune.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nageune.dev@gmail.com)
