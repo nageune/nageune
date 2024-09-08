@@ -1,22 +1,12 @@
 ## 📚 Education
-경희대학교 컴퓨터공학과 <sub>2022. 3. - Present</sub>
+`2022. 3. - Present` Kyung Hee University Department of Computer Science & Engineering
+
+## 🌟 Activity
+`2022. 3. - Present` Kyung Hee University School of Computing Academic Club Hacker
 
 ## 🏆 Contest
-2022 경희대학교 SW중심대학 동아리 단합 공모전 3rd Prize <sub>2022. 9.</sub>  
-2023 경인지역 6개 대학 연합 프로그래밍 경시대회 shake! 경희대학교 선발전 7th Place, 본선 진출 <sub>2023. 9.</sub>
-
-## 🛠️ Skills
-### Languages  
-![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Frameworks
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+`2022. 9.` 2022 Kyung Hee University Club Unity Contest <sub>3rd Prize</sub>  
+`2023. 9.` 2023 shake! <sub>Kyung Hee University Trials 7th Place</sub>
 
 ## 📃 Others
 [![blog](https://img.shields.io/badge/blog-20232A?style=for-the-badge&logo=&logoColor=white)](https://nageune.github.io)
