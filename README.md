@@ -5,5 +5,5 @@
 `2022. 3. - Present` Kyung Hee University School of Computing Academic Club Hacker  
 
 ## 🏆 Contest
-`2022. 9.` 2022 Kyung Hee University Club Unity Contest, 3rd Prize  
-`2023. 9.` shake! 2023, Kyung Hee University Trials 7th Place  
+`2023. 9.` Kyung Hee University Trials 7th Place, shake! 2023  
+`2022. 9.` 3rd Prize, 2022 Kyung Hee University Club Unity Contest  
